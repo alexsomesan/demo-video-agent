@@ -49,3 +49,4 @@ Complete dependency setup before starting the workflow. Verify Node.js/npm and f
 - Never print, log, or write credentials to files or the report.
 - Only perform actions the user described; avoid destructive actions (deleting data, purchases) unless explicitly requested.
 - Convert final output from `.webm` to `MP4` with ffmpeg.
+- Name all generated final artefacts consistently using the base name of the input file.
